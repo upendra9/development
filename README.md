@@ -6,6 +6,30 @@ Testing
 Java Client to write data to Elastic Search
   BoolQueryBuilder --> similar to SQL joins or advanced queries
 
-Auto Complete 
--- Elastic  Has Bulk API which does bulk inserts/ store proceudre.
+### Auto Complete 
+-- Elastic  Has Bulk API which does bulk inserts/ store proceudre
+### Mapping 
+ -- Dynamic mapping how it is used
+ -- Manual Data Mapping - When insrting try to do this.
+ --- Do the data tyoe For each document what is the data type
+ -- Data Strucutr - try 
 
+  *** Learn Ngram Concept is a so
+### Analyzers
+  -- Multiple analyzers ngram 
+  -- BKD Trees 
+### Boost 
+  -- Improve boosting fo name. Eg: google ads show up in first results instead of actual results.
+  -- Java code : QueryBuilders.multiMAtchQuery(q).field("fulltext").field(field:"name",boost:3.0f);
+
+### Aggregation
+  -- Calcuating metrics on data , Eg: How many orders placed, How many people placed orders, How many people bought this item, most selling item.
+  --- Java Code : AggregationBuilders.
+
+### Facetting 
+    -- Eg: Find all iphones , similar to solr facets
+    
+
+Questions :
+
+What is Dynamic Mapping ? 
