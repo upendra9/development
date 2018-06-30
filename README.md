@@ -34,6 +34,22 @@ Java Client to write data to Elastic Search
   -- Java code : QueryBuilders.multiMAtchQuery(q).field("fulltext").field(field:"name",boost:3.0f).fuzziness(1);
     -- one letter corrections eg: 
 
+### 
+
+# Kibana
+-- Elastic Search - Data Source
+-- Window into Data - kibana
+
+# Beats
+-- Push Model . Specific to a requirement. Eg FileBeats, winlogbeats, metricsbeats
+-- 
+
+# Log Stash
+  -- Pull models, similar to ETL , configure data from 
+
 Questions :
+
+Lucene Revolution
+BM25 
 
 What is Dynamic Mapping ? 
