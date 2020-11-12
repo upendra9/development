@@ -29,3 +29,8 @@ sudo apt-get install synapse curl gimp gnome-screenshot gparted stopwatch whois 
 
 # sudo apt-get install synapse chromium-browser curl gimp gnome-screenshot gparted stopwatch whois wine hardinfo
 
+
+####### Useful Commands
+### bios settings from terminal 
+dmidecode 
+
