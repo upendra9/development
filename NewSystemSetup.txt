@@ -10,7 +10,7 @@ sudo apt-get update
 sudo apt-get install sublime-
 
 #### Other SWS
-sudo apt-get install synapse curl gimp gnome-screenshot gparted stopwatch whois  hardinfo gnome-disk-utility 
+sudo apt-get install curl gimp gnome-screenshot gparted stopwatch whois  hardinfo gnome-disk-utility 
 
 #### additional sws
 https://www.teamviewer.com/en/download/linux/
@@ -22,6 +22,17 @@ lxqt settings > keyboard and mouse > mouse pad >
 
 #### for enabling wifi driver 1545 inspiron / broadcom inc driver
 software sources > additional drivers > enable broadband wireless 
+
+
+##### installing albert application launcher
+https://albertlauncher.github.io/docs/installing/
+# Full example for Ubuntu 20.04
+curl https://build.opensuse.org/projects/home:manuelschneid3r/public_key | sudo apt-key add -
+echo 'deb http://download.opensuse.org/repositories/home:/manuelschneid3r/xUbuntu_20.04/ /' | sudo tee /etc/apt/sources.list.d/home:manuelschneid3r.list
+sudo wget -nv https://download.opensuse.org/repositories/home:manuelschneid3r/xUbuntu_20.04/Release.key -O "/etc/apt/trusted.gpg.d/home:manuelschneid3r.asc"
+sudo apt update
+sudo apt install albert
+
 
 ##################### Reference from Here
 
@@ -35,7 +46,7 @@ software sources > additional drivers > enable broadband wireless
 #located at
 #https://linuxwebdevelopment.com/software-to-install-every-time-with-lubuntu-20-04/
 
-sudo apt-get install synapse curl gimp gnome-screenshot gparted stopwatch whois  hardinfo
+sudo apt-get install curl gimp gnome-screenshot gparted stopwatch whois  hardinfo
 
 # sudo apt-get install synapse chromium-browser curl gimp gnome-screenshot gparted stopwatch whois wine hardinfo
 
