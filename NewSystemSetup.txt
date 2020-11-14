@@ -34,6 +34,10 @@ sudo apt update
 sudo apt install albert
 
 
+####
+https://sizious.com/2019/06/03/how-to-set-google-chrome-by-default-on-lubuntu-19-04/
+
+
 ##################### Reference from Here
 
 #!/bin/bash
