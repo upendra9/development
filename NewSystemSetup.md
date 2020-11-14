@@ -9,9 +9,17 @@ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sou
 sudo apt-get update
 sudo apt-get install sublime-text
 #### Other SWS
-sudo apt-get install synapse curl gimp gnome-screenshot gparted stopwatch whois  hardinfo
+sudo apt-get install synapse curl gimp gnome-screenshot gparted stopwatch whois  hardinfo gnome-disk-utility 
 
+#### additional sws
+https://www.teamviewer.com/en/download/linux/
+https://zoom.us/download
 
+######  for single click
+lxqt settings > keyboard and mouse > mouse pad >
+
+#### for enabling wifi driver 1545 inspiron / broadcom inc driver
+software sources > additional drivers > enable broadband wireless 
 
 ##################### Reference from Here
 
