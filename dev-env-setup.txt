@@ -1,0 +1,3 @@
+### oh my zsh setup
+https://medium.com/wearetheledger/oh-my-zsh-made-for-cli-lovers-installation-guide-3131ca5491fb
+
