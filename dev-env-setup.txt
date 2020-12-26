@@ -1,3 +1,28 @@
 ### oh my zsh setup
 https://medium.com/wearetheledger/oh-my-zsh-made-for-cli-lovers-installation-guide-3131ca5491fb
 
+
+
+### How GIT WORKS
+https://www.daolf.com/posts/git-series-part-1/
+├── HEAD
+    ├── branches
+    ├── config
+    ├── description
+    ├── hooks
+    │ ├── pre-commit.sample
+    │ ├── pre-push.sample
+    │ └── ...
+    ├── info
+    │ └── exclude
+    ├── objects
+    │ ├── info
+    │ └── pack
+    └── refs
+     ├── heads
+     └── tags
+
+
+https://medium.com/@pawan_rawal/demystifying-git-internals-a004f0425a70
+
+
