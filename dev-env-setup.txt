@@ -24,5 +24,7 @@ https://www.daolf.com/posts/git-series-part-1/
 
 
 https://medium.com/@pawan_rawal/demystifying-git-internals-a004f0425a70
+https://www.chromium.org/developers/fast-intro-to-git-internals
+http://marklodato.github.io/visual-git-guide/index-en.html
 
 
