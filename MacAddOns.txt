@@ -1,0 +1,14 @@
+Followinf are the must haves for mac users. 
+
+## Dont Let mac to sleep
+caffeine  
+
+### Verify fast launcher that searches any thing
+App Launcher - https://www.alfredapp.com/
+
+### Split Terminal windos into multiple 
+Iterm2 - multi split terminal - https://iterm2.com/
+
+### Improve ZSH productivity and
+### ohmyZSH plugins and useful bash setup - 
+https://medium.com/wearetheledger/oh-my-zsh-made-for-cli-lovers-installation-guide-3131ca5491fb
