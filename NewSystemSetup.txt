@@ -57,5 +57,9 @@ sudo apt-get install curl gimp gnome-screenshot gparted stopwatch whois  hardinf
 
 ####### Useful Commands
 ### bios settings from terminal 
-dmidecode 
+dmidecode
+
+
+############################# Local Development environment setup
+https://dev.to/alexandrudanpop/ubuntu-20-04-how-to-make-it-perfect-for-development-productivity-1jk5
 
