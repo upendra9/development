@@ -1,7 +1,7 @@
 //https://www.educative.io/blog/typescript-tutorial
 //https://www.javatpoint.com/typescript-vs-es6
 //https://www.greycampus.com/blog/programming/java-script-versions
-//
+//https://www.typescriptlang.org/play
 
 //TYpescript = ES6 + some additional functionalities
 //Typescript - transpiler, static typing , has interfaces , supports optional parameters
