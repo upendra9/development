@@ -63,3 +63,10 @@ dmidecode
 ############################# Local Development environment setup
 https://dev.to/alexandrudanpop/ubuntu-20-04-how-to-make-it-perfect-for-development-productivity-1jk5
 
+
+
+###### Install NVM 
+### https://github.com/nvm-sh/nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+sudo npm install -g typescript
+
