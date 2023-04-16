@@ -75,7 +75,8 @@ https://www.tektutorialshub.com/angular/angular-introduction/
    ### Typescript Datatypes
          string , number, boolean, array , enum, Tuples, Any , enum
          Type Inference  --> TS infers . but avoid
-         
+         https://github1s.com/upendra9/development/blob/master/angular/TS-Learn-datatypes.ts
+         https://github1s.com/upendra9/development/blob/master/angular/TS-Learn-functions.ts
          Generics 
          https://www.youtube.com/watch?v=3qBXWUpoPHo
    # SPA 
