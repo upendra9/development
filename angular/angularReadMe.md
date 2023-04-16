@@ -43,6 +43,51 @@ https://www.tektutorialshub.com/angular/angular-introduction/
         * 
 
 
+04/15
+--- BASICSS
+# Node js - V8 engine which can run javascript. 
+# Node package Manager   (npm  === similar to MAVEN )    Similar package managers -- YARN
+    npm init  
+         --> creates package.json
+            --> package.json 
+                  --> Everything about packages, name, version, scripts version is in  this. 
+     node_modules -- folder - dont checking.
+    
+# Typescript 
+## Commands
+   //Install typescript
+   npm i -g typescript 
+   // Create tsconfig.json
+      // About what JS should it be converted et.
+      // Proprerty target  --> tells which ES version should code be converted to etc. 
+      // module  --> where to run code in OS or browser (es2020) or commonjs
+      // "strict": true,    --> Enable all strict type-checking options.
+
+   tsc --init
+   
+   Browsers dont understand TS
+      TS --> converted ---> JS
+      --> Type Safety 
+        Angular, Vue, Express written in typescript, 
+        React --> written in Flow language
+     Evergreen --> TS converts to 
+    
+   ### Typescript Datatypes
+         string , number, boolean, array , enum, Tuples, Any , enum
+         Type Inference  --> TS infers . but avoid
+         
+         Generics 
+         https://www.youtube.com/watch?v=3qBXWUpoPHo
+   # SPA 
+         // Angular, React, Vue
+     //SPA doesnot make request for every URL requests
+   # Angular 
+       Routing 
+       SSR  --> Good For SEO 
+       SPA  --> 
+   # 
+
+      
 
 
 
